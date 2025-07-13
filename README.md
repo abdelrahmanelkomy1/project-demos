@@ -34,4 +34,17 @@ Shows a 3D model using Unity when scanning a target image.
 
 ---
 
+# Banking System
+[Watch Demo Video](https://drive.google.com/file/d/1jo-AJgWOx1AS8R2IwVGS3tvfQZd7KFmr/view?usp=sharing)
+A modern web-based banking application for managing accounts, transactions, and loans. It features:
+Account creation and editing
+Deposit, withdrawal, and transfer functionalities
+Loan application and payment system
+Bug tracking dashboard
+Automated and data-driven testing using Katalon Studio
+Performance analysis and metrics display
+This system simulates real-world banking workflows and supports robust testing and learning experiences.
+
+
+
 Source code is private. Available upon request.
