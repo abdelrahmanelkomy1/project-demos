@@ -24,7 +24,7 @@ converts handwritten notes into fully searchable PDF documents using Python and 
 
 # Tawasol Chat App
 [Watch Demo Video](https://drive.google.com/file/d/1ebKvLc7duK8uLUTLNvBigswaNTwXDs81/view?usp=sharing)
-Real-time chat app like WhatsApp using Flutter and Firebase.
+Flutter & Firebase chat app with login, text/image/voice messages, online status, seen/unseen message indicators, and real-time cloud sync.
 
 ---
 
