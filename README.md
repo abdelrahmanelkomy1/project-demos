@@ -18,7 +18,7 @@ An app that predicts blood pressure and sugar risk using smart questionnaires.
 
 # OCR Scanner App
 [Watch Demo Video](https://drive.google.com/file/d/1JcVddVykNBbyyH2KZ5UK_l2chPby3AXQ/view?usp=sharing)
-Converts handwritten notes into searchable PDFs using Python OCR.
+converts handwritten notes into fully searchable PDF documents using Python and OCR technology. It processes scanned images or photos of handwritten pages, cleans them using image processing techniques, extracts the text with Tesseract OCR, and generates searchable PDF files. This is especially useful for digitizing lecture notes, meeting summaries, or paper records.
 
 ---
 
