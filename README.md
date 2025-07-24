@@ -6,7 +6,7 @@ This repository contains demo videos of my AI, robotics, and mobile development 
 # Medical Assistant Robot
 <img src="./MyRobot.jpg" width="400"/>
 [Watch Demo Video](https://drive.google.com/file/d/1tkjuqnhea_Bi2chiDE6_skczZOB0wYT6/view?usp=sharing)
-A voice-based robot that delivers medicines using NLP and automation.
+Voice-based robot delivers medicines using NLP and automation. Mobile app tracks sensor data, vital signs, and personalized medication schedules.
 
 ---
 
