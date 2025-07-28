@@ -53,7 +53,7 @@ This system simulates real-world banking workflows and supports robust testing a
 ---
 
 # Medical Assistant Robot
-<img src="./MyRobot.jpg" width="400"/>
+<img src="./Robot.jpg" width="400"/>
 [Watch Demo Video](https://drive.google.com/file/d/1tkjuqnhea_Bi2chiDE6_skczZOB0wYT6/view?usp=sharing)
 Voice-based system using NLP to assist patients and physically deliver medicines at scheduled times.
 And have mobile app medical assistant I publish it and with another app uses intelligent, adaptive questionnaires based on medical research to assess your risk of high blood pressure and diabetes. By analyzing user inputs like lifestyle, symptoms, and history, it provides personalized health insights and early warnings—empowering preventive care without needing physical tests.
