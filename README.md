@@ -11,7 +11,7 @@ Voice-based robot delivers medicines using NLP and automation. Mobile app tracks
 ---
 
 # Health Recommendation App
-
+<img src="./Healthcare.png" width="400"/>
 [Watch Demo Video](https://drive.google.com/file/d/1qL-VLt4AwqhqMSNikt3eg_ELDRW_2TB-/view?usp=sharing)
 This mobile app uses intelligent, adaptive questionnaires based on medical research to assess your risk of high blood pressure and diabetes. By analyzing user inputs 
 like lifestyle, symptoms, and history, it provides personalized health insights and early warnings—empowering preventive care without needing physical tests.
@@ -19,6 +19,7 @@ like lifestyle, symptoms, and history, it provides personalized health insights 
 ---
 
 # OCR Scanner App
+<img src="./OCR-HMA.png" width="400"/>
 [Watch Demo Video](https://drive.google.com/file/d/1JcVddVykNBbyyH2KZ5UK_l2chPby3AXQ/view?usp=sharing)
 converts handwritten notes into fully searchable PDF documents using Python and OCR technology. It processes scanned images or photos of handwritten pages, 
 cleans them using image processing techniques, extracts the text with Tesseract OCR, and generates searchable PDF files. This is especially useful for digitizing lecture notes,
@@ -30,6 +31,7 @@ Converts handwritten notes into searchable PDFs using Python, OpenCV, and Tesser
 ---
 
 # Tawasol Chat App
+<img src="./Twasol.png" width="400"/>
 [Watch Demo Video](https://drive.google.com/file/d/1ebKvLc7duK8uLUTLNvBigswaNTwXDs81/view?usp=sharing)
 Twasol is a mobile chat app for fast and secure communication. It’s designed with a clean, modern look and smooth user experience. Main Features:
 Easy login (Email, Google, Fingerprint),Organized contact list (online/offline),Simple and clean chat interface,Light and dark mode,
