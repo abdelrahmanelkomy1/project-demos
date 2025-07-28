@@ -26,6 +26,7 @@ meeting summaries, or paper records.
 I developed a mobile OCR (Optical Character Recognition) application using Flutter and Tesseract OCR that extracts text from images in English. Users can capture images via camera 
 or upload from the gallery, and the app processes the image to detect and extract the printed text accurately.
 Converts handwritten notes into searchable PDFs using Python, OpenCV, and Tesseract OCR. Automates image cleanup, text extraction, and PDF generation.
+
 ---
 
 # Tawasol Chat App
