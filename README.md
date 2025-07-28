@@ -2,7 +2,7 @@
 This repository contains demo videos of my AI, robotics, and mobile development projects.
 
 # Medical-Assistant-Robot-App
-
+<img src="./Medical.png" width="400"/>
 [Watch Demo Video](https://drive.google.com/file/d/1tkjuqnhea_Bi2chiDE6_skczZOB0wYT6/view?usp=drive_link)
 Healtron – Smart Medical Assistant UI A sleek mobile interface designed for healthcare tracking. Includes a secure login, 
 medication management with reminders, and real-time vitals monitoring — all in a clean, user-friendly design focused on patient ease and clarity.
