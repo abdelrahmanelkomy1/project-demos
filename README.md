@@ -38,6 +38,15 @@ Easy login (Email, Google, Fingerprint),Organized contact list (online/offline),
 Mobile-friendly design,Perfect for users who want quick, easy, and stylish messaging.
 Flutter & Firebase chat app with login, text/image/voice messages, online status, seen/unseen message indicators, and real-time cloud sync.
 
+---
+
+# Medical Assistant Robot
+<img src="./Robot.png" width="400"/>
+[Watch Demo Video](https://drive.google.com/file/d/1tkjuqnhea_Bi2chiDE6_skczZOB0wYT6/view?usp=sharing)
+Voice-based system using NLP to assist patients and physically deliver medicines at scheduled times.
+And have mobile app medical assistant I publish it and with another app uses intelligent, adaptive questionnaires based on medical research to assess your risk of high blood pressure and diabetes. By analyzing user inputs like lifestyle, symptoms, and history, it provides personalized health insights and early warnings—empowering preventive care without needing physical tests.
+
+---
 
 # Banking System
 [Watch Demo Video](https://drive.google.com/file/d/1jo-AJgWOx1AS8R2IwVGS3tvfQZd7KFmr/view?usp=sharing)
@@ -51,14 +60,6 @@ Performance analysis and metrics display
 This system simulates real-world banking workflows and supports robust testing and learning experiences.
 
 ---
-
-# Medical Assistant Robot
-<img src="./Robot.png" width="400"/>
-[Watch Demo Video](https://drive.google.com/file/d/1tkjuqnhea_Bi2chiDE6_skczZOB0wYT6/view?usp=sharing)
-Voice-based system using NLP to assist patients and physically deliver medicines at scheduled times.
-And have mobile app medical assistant I publish it and with another app uses intelligent, adaptive questionnaires based on medical research to assess your risk of high blood pressure and diabetes. By analyzing user inputs like lifestyle, symptoms, and history, it provides personalized health insights and early warnings—empowering preventive care without needing physical tests.
----
-
 
 # Unity AR App
 [Watch Demo Video](https://drive.google.com/file/d/1MX1kOKQfE_m-3e9UZ4AodqXZArbyVWa5/view?usp=sharing)
